@@ -1,0 +1,6 @@
+This is the output from python print statements
+Hello World!
+Your chosen integer is 68
+Your chosen float is 47.8890627975814
+Your chosen bool is True
+Your chosen string is rmclgtpkpg

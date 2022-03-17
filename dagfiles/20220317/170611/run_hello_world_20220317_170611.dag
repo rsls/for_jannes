@@ -1,0 +1,10 @@
+JOB job_0 /user/rstanley/for_jannes/hello_world.submit
+VARS job_0 A="78" B="76.4398976728629" C="False" D="eyhizbhrue" OUT_DIR="/user/rstanley/for_jannes/output/20220317_170611" LOG_NAME="eyhizbhrue"
+JOB job_1 /user/rstanley/for_jannes/hello_world.submit
+VARS job_1 A="49" B="78.18234504663279" C="True" D="kghgkvifqg" OUT_DIR="/user/rstanley/for_jannes/output/20220317_170611" LOG_NAME="kghgkvifqg"
+JOB job_2 /user/rstanley/for_jannes/hello_world.submit
+VARS job_2 A="68" B="47.8890627975814" C="False" D="rmclgtpkpg" OUT_DIR="/user/rstanley/for_jannes/output/20220317_170611" LOG_NAME="rmclgtpkpg"
+JOB job_3 /user/rstanley/for_jannes/hello_world.submit
+VARS job_3 A="30" B="58.33678823808428" C="True" D="wblaijdspr" OUT_DIR="/user/rstanley/for_jannes/output/20220317_170611" LOG_NAME="wblaijdspr"
+JOB job_4 /user/rstanley/for_jannes/hello_world.submit
+VARS job_4 A="17" B="66.6037020301974" C="True" D="ipmiwiypvu" OUT_DIR="/user/rstanley/for_jannes/output/20220317_170611" LOG_NAME="ipmiwiypvu"

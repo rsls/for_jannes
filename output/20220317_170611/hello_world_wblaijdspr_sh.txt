@@ -1,0 +1,6 @@
+This is the output from python print statements
+Hello World!
+Your chosen integer is 30
+Your chosen float is 58.33678823808428
+Your chosen bool is True
+Your chosen string is wblaijdspr

@@ -1,0 +1,5 @@
+Hello World!
+Your chosen integer is 91
+Your chosen float is 67.97016299309266
+Your chosen bool is True
+Your chosen string is nqyqnfnrxm

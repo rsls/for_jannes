@@ -1,0 +1,24 @@
+# REMEMBER TO CHANGE PATH NAMES FOR YOUR OWN DIRECTORIES'
+# This is the bash script you want the worker node to run
+executable	= /user/rstanley/for_jannes/hello_world.sh
+
+# DON'T CHANGE ANY OF THESE
+# This option takes all your env variables from your current session
+getenv          = false
+universe        = vanilla
+notification    = never
+request_memory  = 8000
+
+# WRITE ARGUMENTS HERE
+# These arguments will be passed to the bash script
+# Must be contained within $(...) syntax
+Arguments = $(A) $(B) $(C) $(D) $(OUT_DIR)
+
+# REMEMBER TO ADD A LOG_NAME TO THE VARIABLES WHEN SUBMITTING OTHERWISE ERRORS
+output          = /user/rstanley/for_jannes/logs/out/$(LOG_NAME).out
+error           = /user/rstanley/for_jannes/logs/err/$(LOG_NAME).err 
+
+# This sends the job to the scheduler
+queue
+
+
