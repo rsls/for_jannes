@@ -1,0 +1,6 @@
+This is the output from .write statements
+Hello World!
+Your chosen integer is 87
+Your chosen float is 13.588304173929188
+Your chosen bool is True
+Your chosen string is txcxoczstr

@@ -1,0 +1,110 @@
+000 (4267797.000.000) 2022-03-18 10:46:23 Job submitted from host: <192.168.10.37:9618?addrs=192.168.10.37-9618&alias=schedd01.wn.iihe.ac.be&noUDP&sock=schedd_155913_ed9d>
+    DAG Node: job_0
+...
+000 (4267798.000.000) 2022-03-18 10:46:23 Job submitted from host: <192.168.10.37:9618?addrs=192.168.10.37-9618&alias=schedd01.wn.iihe.ac.be&noUDP&sock=schedd_155913_ed9d>
+    DAG Node: job_1
+...
+000 (4267799.000.000) 2022-03-18 10:46:23 Job submitted from host: <192.168.10.37:9618?addrs=192.168.10.37-9618&alias=schedd01.wn.iihe.ac.be&noUDP&sock=schedd_155913_ed9d>
+    DAG Node: job_2
+...
+000 (4267800.000.000) 2022-03-18 10:46:24 Job submitted from host: <192.168.10.37:9618?addrs=192.168.10.37-9618&alias=schedd01.wn.iihe.ac.be&noUDP&sock=schedd_155913_ed9d>
+    DAG Node: job_3
+...
+000 (4267801.000.000) 2022-03-18 10:46:24 Job submitted from host: <192.168.10.37:9618?addrs=192.168.10.37-9618&alias=schedd01.wn.iihe.ac.be&noUDP&sock=schedd_155913_ed9d>
+    DAG Node: job_4
+...
+001 (4267797.000.000) 2022-03-18 10:46:46 Job executing on host: <192.168.24.1:9618?addrs=192.168.24.1-9618&alias=node24-1.wn.iihe.ac.be&noUDP&sock=startd_2548_4b67>
+...
+001 (4267798.000.000) 2022-03-18 10:46:46 Job executing on host: <192.168.23.1:9618?addrs=192.168.23.1-9618&alias=node23-1.wn.iihe.ac.be&noUDP&sock=startd_13929_b6c2>
+...
+001 (4267799.000.000) 2022-03-18 10:46:47 Job executing on host: <192.168.22.6:9618?addrs=192.168.22.6-9618&alias=node22-6.wn.iihe.ac.be&noUDP&sock=startd_2365_c592>
+...
+001 (4267800.000.000) 2022-03-18 10:46:47 Job executing on host: <192.168.30.3:9618?addrs=192.168.30.3-9618&alias=node30-3.wn.iihe.ac.be&noUDP&sock=startd_2339_f01b>
+...
+001 (4267801.000.000) 2022-03-18 10:46:47 Job executing on host: <192.168.22.11:9618?addrs=192.168.22.11-9618&alias=node22-11.wn.iihe.ac.be&noUDP&sock=startd_2417_707f>
+...
+005 (4267798.000.000) 2022-03-18 10:46:58 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :        2        2   1755858 
+	   Memory (MB)          :       10     8000      8000 
+
+	Job terminated of its own accord at 2022-03-18T09:46:58Z.
+...
+005 (4267797.000.000) 2022-03-18 10:47:00 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :        2        2    850162 
+	   Memory (MB)          :       11     8000      8000 
+
+	Job terminated of its own accord at 2022-03-18T09:47:00Z.
+...
+005 (4267800.000.000) 2022-03-18 10:47:01 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :        2        2    860675 
+	   Memory (MB)          :       11     8000      8000 
+
+	Job terminated of its own accord at 2022-03-18T09:47:01Z.
+...
+005 (4267801.000.000) 2022-03-18 10:47:05 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :        2        2    379908 
+	   Memory (MB)          :       10     8000      8000 
+
+	Job terminated of its own accord at 2022-03-18T09:47:05Z.
+...
+005 (4267799.000.000) 2022-03-18 10:47:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :        2        2    381194 
+	   Memory (MB)          :       10     8000      8000 
+
+	Job terminated of its own accord at 2022-03-18T09:47:24Z.
+...
